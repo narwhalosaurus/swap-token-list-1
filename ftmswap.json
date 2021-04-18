@@ -1,11 +1,7 @@
 {
   "name": "FTM Token List",
   "timestamp": "2021-04-17T18:54:56.113Z",
-  "version": {
-    "major": 1,
-    "minor": 13,
-    "patch": 0
-  },
+  "version": { "major": 1, "minor": 13, "patch": 0 },
   "tags": {},
   "logoURI": "https://tokens.hyperswap.fi/images/FTM.png",
   "keywords": ["thugsswap", "streetswap", "hyperswap", "hyperjump", "default"],
@@ -24,7 +20,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E.png"
     },
     {
       "name": "Wrapped Fantom",
@@ -32,7 +28,7 @@
       "symbol": "WFTM",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/wFtm_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
     },
     {
       "name": "Staked FTM",
@@ -40,7 +36,7 @@
       "symbol": "sFTM",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/sftm.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x69c744D3444202d35a2783929a0F930f2FBB05ad.png"
     },
     {
       "name": "fWTI Oil",
@@ -48,7 +44,7 @@
       "symbol": "fWTIOIL",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/wti.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xe297e06761a5489380538A0308B6F9b4A53Bea45.png"
     },
     {
       "name": "Fantom USD",
@@ -56,7 +52,7 @@
       "symbol": "fUSD",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/fUSD_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xAd84341756Bf337f5a0164515b1f6F993D194E1f.png"
     },
     {
       "name": "fSilver",
@@ -64,7 +60,7 @@
       "symbol": "fSILVER",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/silver.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xf15e88EEf35BF4709A4C3E99c00358F9247D4531.png"
     },
     {
       "name": "fLINK",
@@ -72,7 +68,7 @@
       "symbol": "fLINK",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/link.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xA649A19423052dC6b320360B3C760884E095AC57.png"
     },
     {
       "name": "fKRW",
@@ -80,7 +76,7 @@
       "symbol": "fKRW",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/krw.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x2b9C073Ec670b70F417bbaf3BbB052AA563A0a23.png"
     },
     {
       "name": "fJPY",
@@ -88,7 +84,7 @@
       "symbol": "fJPY",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/jpy.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x3B74389bc23057325BaB96523DBec8c445F55799.png"
     },
     {
       "name": "fGold",
@@ -96,7 +92,7 @@
       "symbol": "fGOLD",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/gold.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x2202C52C9076A49400aaccf159e1956269eaa673.png"
     },
     {
       "name": "fGBP",
@@ -104,7 +100,7 @@
       "symbol": "fGBP",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/gbp.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xcDE58e4B6c7b78B04da664Edb0a9752CC5FEDBd5.png"
     },
     {
       "name": "fEUR",
@@ -112,7 +108,7 @@
       "symbol": "fEUR",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/euro.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xe105621721D1293c27be7718e041a4Ce0EbB227E.png"
     },
     {
       "name": "fETH",
@@ -120,7 +116,7 @@
       "symbol": "fETH",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/eth.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD.png"
     },
     {
       "name": "fCNY",
@@ -128,7 +124,7 @@
       "symbol": "fCNY",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/cny.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x24d39324CF3697Fd9Fd78714E8cdeB5Df66E3DCd.png"
     },
     {
       "name": "fCHF",
@@ -136,7 +132,7 @@
       "symbol": "fCHF",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/chf.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x81740D647493a61329E1c574A11ee7577659fb14.png"
     },
     {
       "name": "fBTC",
@@ -144,7 +140,7 @@
       "symbol": "fBTC",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/bitcoin.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E.png"
     },
     {
       "name": "fBNB",
@@ -152,7 +148,7 @@
       "symbol": "fBNB",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/bnb.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x27f26F00e1605903645BbaBC0a73E35027Dccd45.png"
     },
     {
       "name": "fBAND",
@@ -160,7 +156,7 @@
       "symbol": "fBAND",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://repository.fantom.network/logos/band.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32.png"
     },
     {
       "name": "ChainLink",
@@ -168,7 +164,7 @@
       "symbol": "LINK",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/chainlink_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xb3654dc3D10Ea7645f8319668E8F54d2574FBdC8.png"
     },
     {
       "name": "USD Coin",
@@ -176,7 +172,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/USDC_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x04068DA6C83AFCFA0e13ba15A6696662335D5B75.png"
     },
     {
       "name": "Wrapped Bitcoin",
@@ -184,7 +180,7 @@
       "symbol": "WBTC",
       "decimals": 8,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/wBTC_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x321162Cd933E2Be498Cd2267a90534A804051b11.png"
     },
     {
       "name": "Aave",
@@ -192,7 +188,7 @@
       "symbol": "AAVE",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/aave_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B.png"
     },
     {
       "name": "Dai Stablecoin",
@@ -200,7 +196,7 @@
       "symbol": "DAI",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/MCDDai_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E.png"
     },
     {
       "name": "Sushi",
@@ -208,7 +204,7 @@
       "symbol": "SUSHI",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/sushiswap_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC.png"
     },
     {
       "name": "yearn.finance",
@@ -216,7 +212,7 @@
       "symbol": "YFI",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/YFI_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x29b0Da86e484E1C0029B56e817912d778aC0EC69.png"
     },
     {
       "name": "Curve DAO",
@@ -224,7 +220,7 @@
       "symbol": "CRV",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/CurveFi_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x1E4F97b9f9F913c46F1632781732927B9019C68b.png"
     },
     {
       "name": "Band",
@@ -232,7 +228,7 @@
       "symbol": "BAND",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/bandprotocol_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5.png"
     },
     {
       "name": "Spice",
@@ -240,7 +236,7 @@
       "symbol": "SFI",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/saffron_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x924828a9Fb17d47D0eb64b57271D10706699Ff11.png"
     },
     {
       "name": "Hegic",
@@ -248,7 +244,7 @@
       "symbol": "HEGIC",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/hegic_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x44B26E839eB3572c5E959F994804A5De66600349.png"
     },
     {
       "name": "Frax",
@@ -256,7 +252,7 @@
       "symbol": "FRAX",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/fraxfinance_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xaf319E5789945197e365E7f7fbFc56B130523B33.png"
     },
     {
       "name": "Cover",
@@ -264,7 +260,7 @@
       "symbol": "COVER",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/cover_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xB01E8419d842beebf1b70A7b5f7142abbaf7159D.png"
     },
     {
       "name": "Keep3r",
@@ -272,7 +268,7 @@
       "symbol": "KP3R",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/kp3r_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x2A5062D22adCFaAfbd5C541d4dA82E4B450d4212.png"
     },
     {
       "name": "Wrapped Ether",
@@ -280,7 +276,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/wETH_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x74b23882a30290451A17c44f4F05243b6b58C76d.png"
     },
     {
       "name": "Cream",
@@ -288,7 +284,7 @@
       "symbol": "CREAM",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/CreamFinance_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6.png"
     },
     {
       "name": "Synth sUSD",
@@ -296,7 +292,7 @@
       "symbol": "sUSD",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/sUSD_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x0E1694483eBB3b74d3054E383840C6cf011e518e.png"
     },
     {
       "name": "Synthetix Network",
@@ -304,7 +300,7 @@
       "symbol": "SNX",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://ftmscan.com/token/images/Synthetix_SNX_32.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc.png"
     }
   ]
 }
