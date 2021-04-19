@@ -36,7 +36,7 @@
       "symbol": "sFTM",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x69c744D3444202d35a2783929a0F930f2FBB05ad.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x69c744D3444202d35a2783929a0F930f2FBB05ad.png"
     },
     {
       "name": "fWTI Oil",
@@ -44,7 +44,7 @@
       "symbol": "fWTIOIL",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0xe297e06761a5489380538A0308B6F9b4A53Bea45.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xe297e06761a5489380538A0308B6F9b4A53Bea45.png"
     },
     {
       "name": "Fantom USD",
@@ -60,7 +60,7 @@
       "symbol": "fSILVER",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0xf15e88EEf35BF4709A4C3E99c00358F9247D4531.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xf15e88EEf35BF4709A4C3E99c00358F9247D4531.png"
     },
     {
       "name": "fLINK",
@@ -68,7 +68,7 @@
       "symbol": "fLINK",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0xA649A19423052dC6b320360B3C760884E095AC57.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xA649A19423052dC6b320360B3C760884E095AC57.png"
     },
     {
       "name": "fKRW",
@@ -76,7 +76,7 @@
       "symbol": "fKRW",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x2b9C073Ec670b70F417bbaf3BbB052AA563A0a23.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x2b9C073Ec670b70F417bbaf3BbB052AA563A0a23.png"
     },
     {
       "name": "fJPY",
@@ -84,7 +84,7 @@
       "symbol": "fJPY",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x3B74389bc23057325BaB96523DBec8c445F55799.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x3B74389bc23057325BaB96523DBec8c445F55799.png"
     },
     {
       "name": "fGold",
@@ -92,7 +92,7 @@
       "symbol": "fGOLD",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x2202C52C9076A49400aaccf159e1956269eaa673.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x2202C52C9076A49400aaccf159e1956269eaa673.png"
     },
     {
       "name": "fGBP",
@@ -100,7 +100,7 @@
       "symbol": "fGBP",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0xcDE58e4B6c7b78B04da664Edb0a9752CC5FEDBd5.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xcDE58e4B6c7b78B04da664Edb0a9752CC5FEDBd5.png"
     },
     {
       "name": "fEUR",
@@ -108,7 +108,7 @@
       "symbol": "fEUR",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0xe105621721D1293c27be7718e041a4Ce0EbB227E.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xe105621721D1293c27be7718e041a4Ce0EbB227E.png"
     },
     {
       "name": "fETH",
@@ -116,7 +116,7 @@
       "symbol": "fETH",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x658b0c7613e890EE50B8C4BC6A3f41ef411208aD.png"
     },
     {
       "name": "fCNY",
@@ -124,7 +124,7 @@
       "symbol": "fCNY",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x24d39324CF3697Fd9Fd78714E8cdeB5Df66E3DCd.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x24d39324CF3697Fd9Fd78714E8cdeB5Df66E3DCd.png"
     },
     {
       "name": "fCHF",
@@ -132,7 +132,7 @@
       "symbol": "fCHF",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x81740D647493a61329E1c574A11ee7577659fb14.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x81740D647493a61329E1c574A11ee7577659fb14.png"
     },
     {
       "name": "fBTC",
@@ -140,7 +140,7 @@
       "symbol": "fBTC",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0xe1146b9AC456fCbB60644c36Fd3F868A9072fc6E.png"
     },
     {
       "name": "fBNB",
@@ -148,7 +148,7 @@
       "symbol": "fBNB",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x27f26F00e1605903645BbaBC0a73E35027Dccd45.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x27f26F00e1605903645BbaBC0a73E35027Dccd45.png"
     },
     {
       "name": "fBAND",
@@ -156,7 +156,7 @@
       "symbol": "fBAND",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32.svg"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x078EEF5A2fb533e1a4d487ef64b27DF113d12C32.png"
     },
     {
       "name": "ChainLink",
