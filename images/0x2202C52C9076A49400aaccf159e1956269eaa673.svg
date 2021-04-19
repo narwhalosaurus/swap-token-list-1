@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>gold</title>
+    <g id="12-fTrade" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gold" fill-rule="nonzero">
+            <circle id="Oval" fill="#FFD700" cx="24" cy="24" r="24"></circle>
+            <path d="M12.08,31 L13.96,27.04 L15.86,31 L20.18,31 L16.36,24.14 L19.94,17.66 L15.6,17.66 L13.96,21.36 L12.3,17.66 L7.98,17.66 L11.58,24.16 L7.76,31 L12.08,31 Z M22.6,31 L23,29.2 L26.82,29.2 L27.22,31 L31.12,31 L27.2,17.66 L22.62,17.66 L18.7,31 L22.6,31 Z M26.1,25.98 L23.72,25.98 L24.92,20.96 L26.1,25.98 Z M35.8,31.24 C39.14,31.24 41.24,29.34 41.24,26.1 L41.24,17.66 L37.42,17.66 L37.42,26.14 C37.42,27.24 36.9,27.92 35.8,27.92 C34.66,27.92 34.16,27.24 34.16,26.14 L34.16,17.66 L30.34,17.66 L30.34,26.12 C30.34,29.34 32.44,31.24 35.8,31.24 Z" id="XAU" fill="#2B3954"></path>
+        </g>
+    </g>
+</svg>

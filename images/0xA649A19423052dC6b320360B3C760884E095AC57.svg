@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48px" height="48px" viewBox="0 0 48 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>LINK</title>
+    <g id="12-fTrade" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LINK" fill-rule="nonzero">
+            <circle id="Oval" fill="#365BD2" cx="24" cy="24" r="24"></circle>
+            <path d="M23.9206478,14.8016194 L31.9578947,19.4153846 L31.9578947,28.6882591 L23.9433198,33.3303644 L15.9117409,28.7279352 L15.9117409,19.4607287 L23.9206478,14.8016194 M23.9206478,8 L20.9732794,9.70040486 L12.9473684,14.3595142 L10,16.059919 L10,32.140081 L12.9473684,33.8404858 L20.9846154,38.454251 L23.9319838,40.1546559 L26.8793522,38.454251 L34.8882591,33.8064777 L37.8356275,32.1060729 L37.8356275,16.0032389 L34.8882591,14.302834 L26.8566802,9.70040486 L23.9093117,8 L23.9206478,8 Z" id="Shape" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
