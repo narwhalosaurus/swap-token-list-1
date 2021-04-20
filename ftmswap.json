@@ -313,7 +313,7 @@
     {
       "name": "Zoocoin Cash",
       "address": "0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56",
-      "symbol": "SNX",
+      "symbol": "ZOO",
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56.png"
