@@ -301,6 +301,22 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc.png"
+    },
+    {
+      "name": "Popsicle finance",
+      "address": "0xf16e81dce15B08F326220742020379B855B87DF9",
+      "symbol": "ICE",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0xf16e81dce15B08F326220742020379B855B87DF9.png"
+    },
+    {
+      "name": "Zoocoin Cash",
+      "address": "0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56",
+      "symbol": "SNX",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x09e145A1D53c0045F41aEEf25D8ff982ae74dD56.png"
     }
   ]
 }
