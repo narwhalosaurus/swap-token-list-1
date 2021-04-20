@@ -23,14 +23,6 @@
       "logoURI": "https://tokens.hyperswap.fi/images/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E.png"
     },
     {
-      "name": "Wrapped Fantom",
-      "address": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
-      "symbol": "WFTM",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
-    },
-    {
       "name": "Staked FTM",
       "address": "0x69c744D3444202d35a2783929a0F930f2FBB05ad",
       "symbol": "sFTM",
@@ -191,14 +183,6 @@
       "logoURI": "https://tokens.hyperswap.fi/images/0x6a07A792ab2965C72a5B8088d3a069A7aC3a993B.png"
     },
     {
-      "name": "Dai Stablecoin",
-      "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
-      "symbol": "DAI",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E.png"
-    },
-    {
       "name": "Sushi",
       "address": "0xae75A438b2E0cB8Bb01Ec1E1e376De11D44477CC",
       "symbol": "SUSHI",
@@ -229,6 +213,38 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x46E7628E8b4350b2716ab470eE0bA1fa9e76c6C5.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x74b23882a30290451A17c44f4F05243b6b58C76d.png"
+    },
+    {
+      "name": "Cream",
+      "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
+      "symbol": "CREAM",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6.png"
+    },
+    {
+      "name": "Synth sUSD",
+      "address": "0x0E1694483eBB3b74d3054E383840C6cf011e518e",
+      "symbol": "sUSD",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x0E1694483eBB3b74d3054E383840C6cf011e518e.png"
+    },
+    {
+      "name": "Synthetix Network",
+      "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
+      "symbol": "SNX",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc.png"
     },
     {
       "name": "Spice",
@@ -269,38 +285,6 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x2A5062D22adCFaAfbd5C541d4dA82E4B450d4212.png"
-    },
-    {
-      "name": "Wrapped Ether",
-      "address": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
-      "symbol": "WETH",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x74b23882a30290451A17c44f4F05243b6b58C76d.png"
-    },
-    {
-      "name": "Cream",
-      "address": "0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6",
-      "symbol": "CREAM",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x657A1861c15A3deD9AF0B6799a195a249ebdCbc6.png"
-    },
-    {
-      "name": "Synth sUSD",
-      "address": "0x0E1694483eBB3b74d3054E383840C6cf011e518e",
-      "symbol": "sUSD",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x0E1694483eBB3b74d3054E383840C6cf011e518e.png"
-    },
-    {
-      "name": "Synthetix Network",
-      "address": "0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc",
-      "symbol": "SNX",
-      "decimals": 18,
-      "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x56ee926bD8c72B2d5fa1aF4d9E4Cbb515a1E3Adc.png"
     },
     {
       "name": "Popsicle finance",
