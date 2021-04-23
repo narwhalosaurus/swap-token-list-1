@@ -189,6 +189,14 @@
       "decimals": 18,
       "chainId": 250,
       "logoURI": "https://tokens.hyperswap.fi/images/0x6E0aA9718C56Ef5d19ccf57955284C7CD95737be.png"
+    },
+     {
+      "name": "Danny Fantom",
+      "address": "0xb766D934ee3741dcD4Ac3Df622816d0cc21b83F0",
+      "symbol": "DANNY",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0xb766D934ee3741dcD4Ac3Df622816d0cc21b83F0.png"
     }
   ]
 }
