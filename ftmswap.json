@@ -184,11 +184,11 @@
     },
      {
       "name": "SpookyToken",
-      "address": "0x6e0aa9718c56ef5d19ccf57955284c7cd95737be",
+      "address": "0x6E0aA9718C56Ef5d19ccf57955284C7CD95737be",
       "symbol": "BOO",
       "decimals": 18,
       "chainId": 250,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x6e0aa9718c56ef5d19ccf57955284c7cd95737be.png"
+      "logoURI": "https://tokens.hyperswap.fi/images/0x6E0aA9718C56Ef5d19ccf57955284C7CD95737be.png"
     }
   ]
 }
