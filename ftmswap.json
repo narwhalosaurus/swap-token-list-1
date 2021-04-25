@@ -15,14 +15,6 @@
       "logoURI": "https://tokens.hyperswap.fi/images/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
     },
     {
-      "name": "Wrapped FTM",
-      "address": "0xf55E5E303A553bcDb56a31dD301Cb3381DC1C076",
-      "symbol": "WFTM",
-      "decimals": 18,
-      "chainId": 4002,
-      "logoURI": "https://tokens.hyperswap.fi/images/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
-    },
-    {
       "name": "DAI Stablecoin",
       "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
       "symbol": "DAI",
