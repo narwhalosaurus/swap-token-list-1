@@ -15,6 +15,14 @@
       "logoURI": "https://tokens.hyperswap.fi/images/0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83.png"
     },
     {
+      "name": "HyperAurora",
+      "address": "0xbc2451AaD349b6B43FD05F4F0cC327F8A6bcA2d4",
+      "symbol": "AURORA",
+      "decimals": 18,
+      "chainId": 250,
+      "logoURI": "https://tokens.hyperswap.fi/images/0xbc2451AaD349b6B43FD05F4F0cC327F8A6bcA2d4.png"
+    },
+    {
       "name": "DAI Stablecoin",
       "address": "0x8D11eC38a3EB5E956B052f67Da8Bdc9bef8Abf3E",
       "symbol": "DAI",
